@@ -1257,3 +1257,275 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.15-17.58.49:886][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 5.23 sec)
 [2024.01.15-17.58.49:888][453]AssetCheck: New page: Asset Save: W_Shop
 [2024.01.15-17.58.49:888][453]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BluePrints/UI/W_Shop.W_Shop
+[2024.01.15-18.00.58:186][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.15-18.00.58:224][845]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-18.00.58:225][845]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/StartScreen/StartScreen.StartScreen
+[2024.01.15-18.00.58:225][845]Cmd: MAP LOAD FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/Maps/StartScreen/StartScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.15-18.00.58:225][845]LightingResults: New page: Lighting Build
+[2024.01.15-18.00.58:225][845]LoadErrors: New page: Loading map: StartScreen.umap
+[2024.01.15-18.00.58:250][845]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-18.00.58:250][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-18.00.58:251][845]MapCheck: New page: Map Check
+[2024.01.15-18.00.58:251][845]LightingResults: New page: Lighting Build
+[2024.01.15-18.00.58:262][845]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-18.00.58:267][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.15-18.00.58:269][845]LogWorld: UWorld::CleanupWorld for StartScreen, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-18.00.58:269][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-18.00.58:283][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.01.15-18.00.58:295][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.15-18.00.58:301][845]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartScreen'.
+[2024.01.15-18.00.58:302][845]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-18.00.58:302][845]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-18.00.58:302][845]LogAIModule: Creating AISystem for world StartScreen
+[2024.01.15-18.00.58:355][845]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.15-18.00.58:369][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.15-18.00.58:375][845]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.15-18.00.58:375][845]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2024.01.15-18.00.59:661][953]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.00.59:680][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.01.15-18.01.43:692][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.15-18.01.43:756][595]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-18.01.43:763][595]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2024.01.15-18.01.43:763][595]Cmd: MAP LOAD FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.15-18.01.43:763][595]LightingResults: New page: Lighting Build
+[2024.01.15-18.01.43:763][595]LoadErrors: New page: Loading map: Level1.umap
+[2024.01.15-18.01.43:788][595]LogWorld: UWorld::CleanupWorld for StartScreen, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-18.01.43:788][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-18.01.43:788][595]MapCheck: New page: Map Check
+[2024.01.15-18.01.43:788][595]LightingResults: New page: Lighting Build
+[2024.01.15-18.01.43:799][595]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-18.01.43:801][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.01.15-18.01.43:804][595]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-18.01.43:804][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-18.01.43:818][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.01.15-18.01.43:830][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.01.15-18.01.43:860][595]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2024.01.15-18.01.43:860][595]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-18.01.43:860][595]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-18.01.43:860][595]LogAIModule: Creating AISystem for world Level1
+[2024.01.15-18.01.43:920][595]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.15-18.01.43:935][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.01.15-18.01.43:943][595]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.15-18.01.43:943][595]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2024.01.15-18.01.45:957][766]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.01.45:976][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.01.15-18.03.19:815][971]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_SaveGame.BP_SaveGame
+[2024.01.15-18.03.19:816][971]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-18.03.19:816][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-18.04.05:825][275]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.04.05:846][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.01.15-18.04.29:431][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.01.15-18.04.29:465][699]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-18.04.29:467][699]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/StartScreen/StartScreen.StartScreen
+[2024.01.15-18.04.29:467][699]Cmd: MAP LOAD FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/Maps/StartScreen/StartScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.15-18.04.29:467][699]LightingResults: New page: Lighting Build
+[2024.01.15-18.04.29:467][699]LoadErrors: New page: Loading map: StartScreen.umap
+[2024.01.15-18.04.29:493][699]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-18.04.29:493][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-18.04.29:493][699]MapCheck: New page: Map Check
+[2024.01.15-18.04.29:493][699]LightingResults: New page: Lighting Build
+[2024.01.15-18.04.29:503][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-18.04.29:506][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.15-18.04.29:508][699]LogWorld: UWorld::CleanupWorld for StartScreen, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-18.04.29:508][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-18.04.29:523][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.01.15-18.04.29:535][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.01.15-18.04.29:542][699]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartScreen'.
+[2024.01.15-18.04.29:542][699]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-18.04.29:542][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-18.04.29:542][699]LogAIModule: Creating AISystem for world StartScreen
+[2024.01.15-18.04.29:597][699]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.15-18.04.29:611][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.01.15-18.04.29:617][699]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.15-18.04.29:617][699]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2024.01.15-18.04.30:895][802]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.04.30:914][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.01.15-18.05.06:001][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.01.15-18.05.06:064][817]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-18.05.06:070][817]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2024.01.15-18.05.06:070][817]Cmd: MAP LOAD FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.15-18.05.06:070][817]LightingResults: New page: Lighting Build
+[2024.01.15-18.05.06:070][817]LoadErrors: New page: Loading map: Level1.umap
+[2024.01.15-18.05.06:096][817]LogWorld: UWorld::CleanupWorld for StartScreen, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-18.05.06:096][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-18.05.06:096][817]MapCheck: New page: Map Check
+[2024.01.15-18.05.06:096][817]LightingResults: New page: Lighting Build
+[2024.01.15-18.05.06:108][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-18.05.06:110][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.15-18.05.06:113][817]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-18.05.06:113][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-18.05.06:128][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.01.15-18.05.06:140][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.01.15-18.05.06:170][817]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2024.01.15-18.05.06:170][817]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-18.05.06:170][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-18.05.06:170][817]LogAIModule: Creating AISystem for world Level1
+[2024.01.15-18.05.06:229][817]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.15-18.05.06:245][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.01.15-18.05.06:253][817]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.15-18.05.06:253][817]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2024.01.15-18.05.08:972][ 56]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level1.Level1:PersistentLevel.Level1
+[2024.01.15-18.05.08:973][ 56]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-18.05.08:973][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-18.07.48:269][121]BlueprintLog: New page: Compile BP_Camera
+[2024.01.15-18.07.48:352][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.15-18.07.49:012][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-18.07.49:040][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Camera" FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset" SILENT=true
+[2024.01.15-18.07.49:081][152]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Camera
+[2024.01.15-18.07.49:082][152]LogSavePackage: Moving 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Saved/BP_Camera16480D424BBA85C415610DAA71AEFD40.tmp' to 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset'
+[2024.01.15-18.07.49:089][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 5.31 sec)
+[2024.01.15-18.07.49:091][152]AssetCheck: New page: Asset Save: BP_Camera
+[2024.01.15-18.07.49:091][152]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/BP_Camera.BP_Camera
+[2024.01.15-18.07.54:444][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.01.15-18.07.54:485][535]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-18.07.54:486][535]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/StartScreen/StartScreen.StartScreen
+[2024.01.15-18.07.54:486][535]Cmd: MAP LOAD FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/Maps/StartScreen/StartScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.15-18.07.54:486][535]LightingResults: New page: Lighting Build
+[2024.01.15-18.07.54:486][535]LoadErrors: New page: Loading map: StartScreen.umap
+[2024.01.15-18.07.54:533][535]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-18.07.54:533][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-18.07.54:558][535]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-18.07.54:558][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-18.07.54:559][535]MapCheck: New page: Map Check
+[2024.01.15-18.07.54:559][535]LightingResults: New page: Lighting Build
+[2024.01.15-18.07.54:569][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-18.07.54:573][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.01.15-18.07.54:577][535]LogWorld: UWorld::CleanupWorld for StartScreen, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-18.07.54:578][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-18.07.54:591][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.15-18.07.54:605][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.15-18.07.54:612][535]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartScreen'.
+[2024.01.15-18.07.54:612][535]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-18.07.54:612][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-18.07.54:613][535]LogAIModule: Creating AISystem for world StartScreen
+[2024.01.15-18.07.54:665][535]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.15-18.07.54:679][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.01.15-18.07.54:688][535]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.15-18.07.54:688][535]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2024.01.15-18.07.56:399][660]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.07.56:419][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.15-18.08.35:617][577]BlueprintLog: New page: Compile BP_Camera
+[2024.01.15-18.08.35:677][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.15-18.08.36:318][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-18.08.36:348][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Camera" FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset" SILENT=true
+[2024.01.15-18.08.36:389][624]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Camera
+[2024.01.15-18.08.36:389][624]LogSavePackage: Moving 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Saved/BP_CameraABD8DCE64DA05CEB1D73DCA4BB8B6D70.tmp' to 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset'
+[2024.01.15-18.08.36:398][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 5.39 sec)
+[2024.01.15-18.08.36:400][624]AssetCheck: New page: Asset Save: BP_Camera
+[2024.01.15-18.08.36:400][624]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/BP_Camera.BP_Camera
+[2024.01.15-18.08.37:575][726]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.08.37:601][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.01.15-18.09.48:208][505]BlueprintLog: New page: Compile BP_Camera
+[2024.01.15-18.09.48:270][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.15-18.09.49:474][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-18.09.49:504][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Camera" FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset" SILENT=true
+[2024.01.15-18.09.49:546][583]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Camera
+[2024.01.15-18.09.49:546][583]LogSavePackage: Moving 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Saved/BP_Camera8A7B844F466395501C839C92356538B3.tmp' to 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset'
+[2024.01.15-18.09.49:554][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 5.47 sec)
+[2024.01.15-18.09.49:556][583]AssetCheck: New page: Asset Save: BP_Camera
+[2024.01.15-18.09.49:556][583]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/BP_Camera.BP_Camera
+[2024.01.15-18.09.50:942][684]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.09.50:970][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.15-18.10.26:765][278]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.10.26:784][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.01.15-18.12.03:457][591]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.01.15-18.12.03:457][591]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.01.15-18.12.14:309][643]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.01.15-18.12.51:131][224]BlueprintLog: New page: Compile BP_Camera
+[2024.01.15-18.12.51:192][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.01.15-18.12.51:849][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-18.12.51:872][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Camera" FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset" SILENT=true
+[2024.01.15-18.12.51:913][262]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Camera
+[2024.01.15-18.12.51:913][262]LogSavePackage: Moving 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Saved/BP_CameraBEEA7E1542348221F8B138AE56FF887A.tmp' to 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset'
+[2024.01.15-18.12.51:921][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 5.54 sec)
+[2024.01.15-18.12.51:923][262]AssetCheck: New page: Asset Save: BP_Camera
+[2024.01.15-18.12.51:923][262]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/BP_Camera.BP_Camera
+[2024.01.15-18.12.54:195][449]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.12.54:219][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.01.15-18.13.15:593][478]BlueprintLog: New page: Compile BP_Camera
+[2024.01.15-18.13.15:653][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.15-18.13.16:068][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-18.13.16:099][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Camera" FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset" SILENT=true
+[2024.01.15-18.13.16:138][498]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Camera
+[2024.01.15-18.13.16:138][498]LogSavePackage: Moving 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Saved/BP_Camera2EE6A4A347C8BF4E50456281B7232CAE.tmp' to 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset'
+[2024.01.15-18.13.16:147][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 5.62 sec)
+[2024.01.15-18.13.16:149][498]AssetCheck: New page: Asset Save: BP_Camera
+[2024.01.15-18.13.16:149][498]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/BP_Camera.BP_Camera
+[2024.01.15-18.13.30:632][902]BlueprintLog: New page: Compile BP_Camera
+[2024.01.15-18.13.30:695][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.15-18.13.31:621][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-18.13.31:642][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Camera" FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset" SILENT=true
+[2024.01.15-18.13.31:680][971]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Camera
+[2024.01.15-18.13.31:680][971]LogSavePackage: Moving 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Saved/BP_CameraF5ACAF1849E8617C481407A0F2D18707.tmp' to 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset'
+[2024.01.15-18.13.31:688][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 5.69 sec)
+[2024.01.15-18.13.31:690][971]AssetCheck: New page: Asset Save: BP_Camera
+[2024.01.15-18.13.31:690][971]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/BP_Camera.BP_Camera
+[2024.01.15-18.13.32:624][ 46]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.13.32:651][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.15-18.14.10:346][738]BlueprintLog: New page: Compile BP_Camera
+[2024.01.15-18.14.10:403][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.15-18.14.10:822][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-18.14.10:851][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Camera" FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset" SILENT=true
+[2024.01.15-18.14.10:889][755]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Camera
+[2024.01.15-18.14.10:889][755]LogSavePackage: Moving 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Saved/BP_CameraC9E96C074DC362825F3F4BBDBE4E61D6.tmp' to 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset'
+[2024.01.15-18.14.10:897][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 5.76 sec)
+[2024.01.15-18.14.10:899][755]AssetCheck: New page: Asset Save: BP_Camera
+[2024.01.15-18.14.10:899][755]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/BP_Camera.BP_Camera
+[2024.01.15-18.14.12:339][864]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.14.12:367][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.15-18.14.46:323][538]BlueprintLog: New page: Compile BP_Camera
+[2024.01.15-18.14.46:386][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.15-18.14.46:976][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-18.14.47:002][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Camera" FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset" SILENT=true
+[2024.01.15-18.14.47:040][569]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Camera
+[2024.01.15-18.14.47:041][569]LogSavePackage: Moving 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Saved/BP_CameraC05C60B1408A9FA1F83221838B62D0DE.tmp' to 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset'
+[2024.01.15-18.14.47:049][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 5.84 sec)
+[2024.01.15-18.14.47:051][569]AssetCheck: New page: Asset Save: BP_Camera
+[2024.01.15-18.14.47:051][569]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/BP_Camera.BP_Camera
+[2024.01.15-18.14.48:025][644]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.14.48:051][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.01.15-18.15.22:534][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.15-18.15.22:537][503]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/StartScreen/StartScreen.StartScreen
+[2024.01.15-18.15.22:537][503]Cmd: MAP LOAD FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/Maps/StartScreen/StartScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.15-18.15.22:538][503]LightingResults: New page: Lighting Build
+[2024.01.15-18.15.22:538][503]LoadErrors: New page: Loading map: StartScreen.umap
+[2024.01.15-18.15.22:565][503]LogWorld: UWorld::CleanupWorld for StartScreen, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-18.15.22:565][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-18.15.22:565][503]MapCheck: New page: Map Check
+[2024.01.15-18.15.22:565][503]LightingResults: New page: Lighting Build
+[2024.01.15-18.15.22:577][503]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-18.15.22:579][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.15-18.15.22:588][503]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartScreen'.
+[2024.01.15-18.15.22:588][503]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-18.15.22:588][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-18.15.22:588][503]LogAIModule: Creating AISystem for world StartScreen
+[2024.01.15-18.15.22:643][503]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.15-18.15.22:657][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.01.15-18.15.22:663][503]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.15-18.15.22:663][503]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2024.01.15-18.15.24:306][622]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.15.24:325][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.15-18.16.40:761][759]BlueprintLog: New page: Compile BP_Camera
+[2024.01.15-18.16.40:818][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.01.15-18.16.41:887][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-18.16.41:916][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Camera" FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset" SILENT=true
+[2024.01.15-18.16.41:956][826]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Camera
+[2024.01.15-18.16.41:957][826]LogSavePackage: Moving 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Saved/BP_Camera1FD135BE4DDCBF2FCE7527B4417AC092.tmp' to 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset'
+[2024.01.15-18.16.41:966][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 5.92 sec)
+[2024.01.15-18.16.41:967][826]AssetCheck: New page: Asset Save: BP_Camera
+[2024.01.15-18.16.41:967][826]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/BP_Camera.BP_Camera
+[2024.01.15-18.16.42:873][892]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.16.42:900][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.15-18.16.58:578][243]BlueprintLog: New page: Compile BP_Camera
+[2024.01.15-18.16.58:638][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.15-18.16.59:248][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-18.16.59:279][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Camera" FILE="C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset" SILENT=true
+[2024.01.15-18.16.59:318][277]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_Camera
+[2024.01.15-18.16.59:318][277]LogSavePackage: Moving 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Saved/BP_CameraD5E48E12473B54AE2B7CC7AA8FA6D534.tmp' to 'C:/Users/brand/Desktop/GameDev/Unreal Projects/CropClicker/CropClicker/FarmingSim 5.3/Content/BluePrints/BP_Camera.uasset'
+[2024.01.15-18.16.59:326][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 5.99 sec)
+[2024.01.15-18.16.59:327][277]AssetCheck: New page: Asset Save: BP_Camera
+[2024.01.15-18.16.59:327][277]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/BP_Camera.BP_Camera
+[2024.01.15-18.17.00:407][358]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.17.00:432][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.15-18.38.02:564][853]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.01.15-18.38.02:588][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
